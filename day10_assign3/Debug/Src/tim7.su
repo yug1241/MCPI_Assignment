@@ -1,0 +1,2 @@
+../Src/tim7.c:2:6:TimerInit	4	static
+../Src/tim7.c:9:6:TimerDelayMs	24	static
