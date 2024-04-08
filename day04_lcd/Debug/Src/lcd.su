@@ -1,0 +1,6 @@
+../Inc/system_stm32f4xx.h:131:20:DelayMs	24	static
+../Src/lcd.c:11:6:LcdBusyWait	16	static
+../Src/lcd.c:29:6:LcdWriteNibble	16	static
+../Src/lcd.c:47:6:LcdWrite	24	static
+../Src/lcd.c:61:6:LcdInit	8	static
+../Src/lcd.c:102:7:LcdPuts	24	static
